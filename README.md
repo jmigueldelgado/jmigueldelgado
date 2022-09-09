@@ -17,7 +17,7 @@ I currently work at [UP42](http://up42.com) as a data science engineer in the pr
 I use R and Python to make sense of complex earth science datasets at the mesoscale.
 
 In the past I worked on:
-- :satellite: [collecting and extracting weekly water extent for thousands of dams in drought prone northeast Brazil](https://github.com/jmigueldelgado/buhayra). Take a look at the [buhayra dashboard](http://seca-vista.geo.uni-potsdam.de:3838/buhayra-app/)
+- :satellite: [collecting and extracting weekly water extent for thousands of dams in drought prone northeast Brazil](https://github.com/jmigueldelgado/buhayra).
 - :umbrella: a [medium range drought forecasting tool](http://seca-vista.geo.uni-potsdam.de:3838/seca-vista-app/) and published its results on [HESS](https://hess.copernicus.org/articles/22/5041/2018/)
 - 💬 Ask me about geospatial data in R and Python
 
