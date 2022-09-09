@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I currently work at [UP42](http://up42.com) as a data science engineer in the processing team.
+I currently work at [UP42](http://up42.com) as a data science engineer in the analytics team.
 
 I use R and Python to make sense of complex earth science datasets at the mesoscale.
 
