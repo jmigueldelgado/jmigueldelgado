@@ -1,4 +1,4 @@
-### Hi there, I'm Zé Miguel  [zɛ miˈɣɛɫ] 👋
+### Hi there, I'm Miguel  [miˈɣɛɫ] 👋
 
 <!--
 **jmigueldelgado/jmigueldelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
