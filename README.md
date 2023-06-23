@@ -14,7 +14,7 @@
 
 I currently work at [UP42](http://up42.com) as a geospatial python engineer.
 
-My job is to make remote sensing accessible to anyone. Interoperability and transparency with STAC, STAC API and cloud-native solutions.
+My job is to make remote sensing accessible to everyone. Interoperability and transparency with STAC, STAC API and cloud-native solutions.
 
 In the past I worked on:
 - :satellite: collecting and extracting weekly water extent for thousands of dams in drought prone northeast Brazil
