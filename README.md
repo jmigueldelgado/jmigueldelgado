@@ -20,7 +20,7 @@ In the past I worked on:
 - :satellite: collecting, extracting and assimilating weekly water extent for thousands of dams in drought prone northeast Brazil
 - :umbrella: a medium range drought forecasting tool and published its results on [HESS](https://hess.copernicus.org/articles/22/5041/2018/)
 - :deciduous_tree: field-measurements of evapotranspiration in an agro-forestry system
-- :droplet: flood risk estimation in Europa and Southeast Asia
+- :droplet: flood risk estimation in Europe and Southeast Asia
 - :railway_track: railway track design and planning
 
 💬 Ask me about geospatial, new space, and data-intensive cloud-native B2B platforms
