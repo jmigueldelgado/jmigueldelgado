@@ -14,7 +14,7 @@
 
 I currently work at [UP42](http://up42.com) as engineering team lead.
 
-:rainbow: My job is to make satellite imagery accessible to everyone. Interoperability and transparency with STAC, cloud-native B2B services for data-intensive systems, focused on reliability, security, and my amazing team.
+:rainbow: 🛰️ 📷 My job is to make satellite imagery accessible to everyone. Interoperability and transparency with STAC, cloud-native B2B services for data-intensive systems, focused on reliability, security, and my amazing team.
 
 In the past I worked on:
 - :satellite: collecting, extracting and assimilating weekly water extent for thousands of dams in drought prone northeast Brazil
